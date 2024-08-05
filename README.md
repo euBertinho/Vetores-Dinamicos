@@ -39,3 +39,6 @@ Para compilar e executar o arquivo de teste de remove_at em uma Lista_ligada, us
 Para compilar e executar o arquivo de teste de remove_at em um Vetor_dinamico, use:
 ```g++ -Wall -o test-removeat-array-list-01 test-removeat-array-list-01.cpp```
 ```./test-removeat-array-list-01 < remove_at/r1.txt```
+
+## 
+TADS - Relatório para Algoritmos / Luiz Roberto
